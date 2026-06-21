@@ -266,17 +266,49 @@ This repository aims to help learners:
 - Full Stack Developer and AI Enthusiast
 
 ---
-
 ## Repository Structure
 
-- IBM-watsonx-ai.md
-- IBM-watsonx-data.md
-- IBM-watsonx-governance.md
-- Enterprise-AI-Use-Cases.md
-- Benefits-for-Developers.md
-- Future-of-Enterprise-AI.md
-- IBM-watsonx-Resources.md
+```text
+IBM-watsonx-Enterprise-AI-Guide
+│
+├── README.md
+│
+├── IBM-watsonx-ai.md
+├── IBM-watsonx-data.md
+├── IBM-watsonx-governance.md
+│
+├── Enterprise-AI-Use-Cases.md
+├── Benefits-for-Developers.md
+├── Future-of-Enterprise-AI.md
+│
+├── Getting-Started-with-IBM-watsonx.md
+├── IBM-watsonx-Career-Guide.md
+│
+├── IBM-watsonx-Resources.md
+├── IBM-watsonx-Learning-Resources.md
+│
+├── Building-Enterprise-AI-Projects-with-IBM-watsonx.md
+│
+└── IBM-Official-Resources.md
+```
 
+### Repository Contents
+
+| File Name | Description |
+|------------|------------|
+| **README.md** | Main repository overview and guide |
+| **IBM-watsonx-ai.md** | Complete guide to IBM watsonx.ai |
+| **IBM-watsonx-data.md** | Complete guide to IBM watsonx.data |
+| **IBM-watsonx-governance.md** | Complete guide to IBM watsonx.governance |
+| **Enterprise-AI-Use-Cases.md** | Real-world enterprise AI applications |
+| **Benefits-for-Developers.md** | Benefits of IBM watsonx for developers |
+| **Future-of-Enterprise-AI.md** | Future trends in Enterprise AI |
+| **Getting-Started-with-IBM-watsonx.md** | Beginner-friendly onboarding guide |
+| **IBM-watsonx-Career-Guide.md** | Career opportunities and learning roadmap |
+| **IBM-watsonx-Resources.md** | Helpful IBM watsonx resources |
+| **IBM-watsonx-Learning-Resources.md** | Official IBM learning resources and training links |
+| **Building-Enterprise-AI-Projects-with-IBM-watsonx.md** | Project ideas and implementation guidance |
+| **IBM-Official-Resources.md** | Official IBM websites, programs, and platforms |
 
 ## Target Audience
 - **Students and learners interested in Artificial Intelligence, Data Science, and Enterprise Technologies**.
