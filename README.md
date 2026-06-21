@@ -1,7 +1,5 @@
 # IBM watsonx Enterprise AI Guide
 
-![IBM watsonx](images/watsonx-banner.png)
-
 ## Overview
 Welcome to the **IBM watsonx Enterprise AI Guide**.
 
