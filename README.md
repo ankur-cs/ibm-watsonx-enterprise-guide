@@ -1,7 +1,8 @@
 # IBM watsonx Enterprise AI Guide
 
-## Overview
+![IBM watsonx](images/watsonx-banner.png)
 
+## Overview
 Welcome to the **IBM watsonx Enterprise AI Guide**.
 
 This repository provides a comprehensive introduction to **IBM watsonx**, IBM's enterprise-ready Artificial Intelligence and Data Platform. It is designed to help developers, students, technology professionals, and organizations understand how IBM is enabling the next generation of AI-powered innovation.
